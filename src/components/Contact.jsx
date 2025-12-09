@@ -41,6 +41,18 @@ function Contact() {
             github.com/lammysalami
           </a>
         </p>
+
+         <p>
+          <span className="font-medium text-slate-100">Twitter:</span>{" "}
+          <a
+            href="https://x.com/__olamidesalami"
+            className="text-indigo-300 hover:text-indigo-200 underline underline-offset-4"
+            target="_blank"
+            rel="noreferrer"
+          >
+           x.com/__olamidesalami
+          </a>
+        </p>
       </div>
     </section>
   );
