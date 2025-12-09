@@ -35,16 +35,12 @@ function Hero() {
             <div className="flex-1 flex justify-center md:justify-end">
                 <div className="relative">
                     <div className="w-40 h-40 sm:w-52 sm:h-52 rounded-3x1 bg-gradient-to-tr from-indigo-500 via-purple to-sky-500 blur-2x1 opacity-60 absolute inset-0 -z-10" />
-                    <div className="w-40 h-40 sm:w-52 sm:h-52 rounded-3x1 bg-slate-900 border border-slate-700 flex flex-cool items-center justify-center gap-2 shadow-x1">
-                        <span className="text-xs uppercase tracking-[0.3rem] text-slate-400">
-                            Stack
-                        </span>
-                        <p className="text-sm font-medium text-slate-100 text-center">
-                            React.js <br />
-                            Typescript <br />
-                            Tailwind CSS <br />
-                            Next.js
-                        </p>
+                    <div className="w-49 h-40 sm:w-52 sm:h-52 rounded-full overflow-hidden shadow-x1 border border-slate-700">
+                        <img
+                        src="/src/assets/profile.jpg"
+                        alt="Profile"
+                        className="w-full h-full object-cover"
+                        />
                     </div>
                 </div>
             </div>
