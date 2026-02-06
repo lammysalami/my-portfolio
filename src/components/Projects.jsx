@@ -6,8 +6,8 @@ const projects = [
     tech: "React • TypeScript • Tailwind",
     description:
       "Responsive property listing interface with cards, filters, and search, built to practice modern UI layouts.",
-    live: "https://alx-listing-app-setup.vercel.app",
-    repo: "https://github.com/lammysalami/alx-listing-app-00.git",
+    live: "https://real-estate-c2w9naimj-olamide-salamis-projects.vercel.app",
+    repo: "https://github.com/lammysalami/real-estate-app.git",
   },
   {
     title: "E-Commerce UI",
